@@ -17,7 +17,7 @@ This document provides an overview of 3 macros developed by Nova for exporting S
 **Works on**: SolidWorks Drawing Document (`.SLDDRW`) files\
 **Output**: either `.PDF` or `.DXF` files\
 **Features**:
-- Exports **every** drawing currently open in SolidWorks as a `.PDF` or as a `.DXF` file depending on which filetype is chosen in the window that appears below\
+- Exports **every** drawing currently open in SolidWorks as a `.PDF` or as a `.DXF` file depending on which filetype is chosen in the window that appears below
 
 <p align="center">
   <img src="Export_Drawings.png"/>
