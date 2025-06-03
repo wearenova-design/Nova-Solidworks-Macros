@@ -14,10 +14,10 @@ This document provides an overview of 3 macros developed by Nova for exporting S
 
 
 ## Export All Open Drawings as PDF or DXF
-**Works on**: SolidWorks Drawing Document (`.SLDDRW`) files
-**Output**: either `.PDF` or `.DXF` files
+**Works on**: SolidWorks Drawing Document (`.SLDDRW`) files\
+**Output**: either `.PDF` or `.DXF` files\
 **Features**:
-- Exports **every** drawing currently open in SolidWorks as a `.PDF` or as a `.DXF` file depending on which filetype is chosen in the window that appears below
+- Exports **every** drawing currently open in SolidWorks as a `.PDF` or as a `.DXF` file depending on which filetype is chosen in the window that appears below\
 ![](Export_Drawings.png)
 - Exports the `.PDF`/`.DXF` files to the same folder that the drawings live in
 - Full export filenames follow the format `(drawing)filename_(part)revision`
@@ -27,8 +27,8 @@ This document provides an overview of 3 macros developed by Nova for exporting S
 
 
 ## Export All Open Parts and Assemblies as STEP
-**Works on**: SolidWorks Part Document (`.SLDPRT`) and/or SolidWorks Assembly Document (`.SLDASM`) files
-**Output**: `.STEP` files
+**Works on**: SolidWorks Part Document (`.SLDPRT`) and/or SolidWorks Assembly Document (`.SLDASM`) files\
+**Output**: `.STEP` files\
 **Features**:
 - When exporting assemblies:
   - All child parts and the top level assembly are exported
@@ -38,8 +38,8 @@ This document provides an overview of 3 macros developed by Nova for exporting S
 
 
 ## Export All Open Parts as STL
-**Works on**: SolidWorks Part Document (`.SLDPRT`) and/or SolidWorks Assembly Document (`.SLDASM`) files
-**Output**: `.STL` files
+**Works on**: SolidWorks Part Document (`.SLDPRT`) and/or SolidWorks Assembly Document (`.SLDASM`) files\
+**Output**: `.STL` files\
 **Features**:
 - When exporting assemblies:
   - **Only** child parts are exported
@@ -49,7 +49,7 @@ This document provides an overview of 3 macros developed by Nova for exporting S
 - Full export filenames follow the format `filename_revision.STL` (Revision set in custom properties)
 
 ### License - GNU General Public License v3.0 (GPL-3.0)
-- GitHub repository (see `COPYING.txt` for details)
+- [GitHub repository](https://github.com/wearenova-design/Nova-Solidworks-Macros) (see `LICENSE` for details)
 - Note that we do not intend these Macros to be resold or put into paid software services. 
 - Please use them in the spirit we offer them, which is to make your own life and the lives of the engineers around you easier. Feel free to share widely, make them your own, but please do not create sellable products based off them.
 - Thanks to Deepak Gupta for starting this code, which we have modified, updated, and tested. See more from him [here](https://gupta9665.wordpress.com/) 
