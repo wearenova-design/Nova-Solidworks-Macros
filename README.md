@@ -54,7 +54,7 @@ This document provides an overview of 3 macros developed by Nova for exporting S
 
 ### License - GNU General Public License v3.0 (GPL-3.0)
 - [GitHub repository](https://github.com/wearenova-design/Nova-Solidworks-Macros) (see `LICENSE` for details)
-- Note that we do not intend these Macros to be resold or put into paid software services. 
+- Note that we do not intend these macros to be resold or put into paid software services. 
 - Please use them in the spirit we offer them, which is to make your own life and the lives of the engineers around you easier. Feel free to share widely, make them your own, but please do not create sellable products based off them.
 - Thanks to Deepak Gupta for starting this code, which we have modified, updated, and tested. See more from him [here](https://gupta9665.wordpress.com/) 
 - These macros have been tested with SolidWorks 2024. Future versions are not guaranteed to work. (last updated June 2025)
