@@ -1,4 +1,4 @@
-![](Nova.png)
+![](assets/Nova.png)
 # Nova SolidWorks Macros
 
 
@@ -20,7 +20,7 @@ This document provides an overview of 3 macros developed by Nova for exporting S
 - Exports **every** drawing currently open in SolidWorks as a `.PDF` or as a `.DXF` file depending on which filetype is chosen in the window that appears below
 
 <p align="center">
-  <img src="Export_Drawings.png"/>
+  <img src="assets/Export_Drawings.png"/>
 </p>
 
 - Exports the `.PDF`/`.DXF` files to the same folder that the drawings live in
