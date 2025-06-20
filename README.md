@@ -18,9 +18,9 @@ All 3 macros are compatible with SolidWorks 2024. The macros are .swp files and 
 
 
 ## Export All Open Drawings as PDF or DXF
-**Works on**: SolidWorks Drawing Document (`.SLDDRW`) files\
-**Output**: either `.PDF` or `.DXF` files\
-**Features**:
+__**Works on**__: SolidWorks Drawing Document (`.SLDDRW`) files\
+__**Output**__: either `.PDF` or `.DXF` files\
+__**Features**__:
 - Exports **every saved** drawing **currently open** in SolidWorks **with at least one model view** as a `.PDF` or as a `.DXF` file depending on which filetype is chosen in the window that appears below
 
 <p align="center">
@@ -35,9 +35,9 @@ All 3 macros are compatible with SolidWorks 2024. The macros are .swp files and 
 
 
 ## Export All Open Parts and Assemblies as STEP
-**Works on**: SolidWorks Part Document (`.SLDPRT`) files and/or SolidWorks Assembly Document (`.SLDASM`) files with/without subassemblies\
-**Output**: `.STEP` files\
-**Features**:
+__**Works on**__: SolidWorks Part Document (`.SLDPRT`) files and/or SolidWorks Assembly Document (`.SLDASM`) files with/without subassemblies\
+__**Output**__: `.STEP` files\
+__**Features**__:
 - When exporting assemblies:
   - All child parts and the top level assembly are exported
   - For assemblies with subassemblies, all subassemblies and all child parts of the subassemblies are also exported with the child parts and the top level assembly
@@ -46,9 +46,9 @@ All 3 macros are compatible with SolidWorks 2024. The macros are .swp files and 
 
 
 ## Export All Open Parts as STL
-**Works on**: SolidWorks Part Document (`.SLDPRT`) files and/or SolidWorks Assembly Document (`.SLDASM`) files with/without subassemblies\
-**Output**: `.STL` files\
-**Features**:
+__**Works on**__: SolidWorks Part Document (`.SLDPRT`) files and/or SolidWorks Assembly Document (`.SLDASM`) files with/without subassemblies\
+__**Output**__: `.STL` files\
+__**Features**__:
 - When exporting assemblies:
   - **Only** child parts are exported
   - For assemblies with subassemblies, child parts of subassemblies are exported, but **subassemblies themselves are ignored**
